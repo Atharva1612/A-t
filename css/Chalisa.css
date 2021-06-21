@@ -186,5 +186,21 @@ html {
     .v-class-resp {
         opacity: 0;
     }
+    .kand{
+        width: 375px;
+    }
+}
+.kand{
+    color: #ff9933;
+    font-size: 60px;
+    font-family: 'Kalam', cursive;
+    align-items: center;
+}
+.text-footer {
+    text-align: center;
+    padding: 7px;
+    font-family: 'Kalam', cursive;
+    color: black;
+    background-color: white;
 }
 
